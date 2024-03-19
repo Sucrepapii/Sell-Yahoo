@@ -1,0 +1,46 @@
+body{
+    padding-top: 3px;
+    background-color: rgba(96, 50, 50, 0.35);
+}
+.nav-justified{
+    background-color: #eee;
+    border-radius: 15px;
+}
+.nav-justified li > a{
+    padding: 15px 0;
+    color: black;
+    text-align: center;
+    background-color: #e5e5e5;
+}
+.nav-justified li > a:hover{
+    background-color: green;  
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn{
+    padding: 15px 25px;
+    font-size: 22px;
+}
+.centro{
+    text-align: center;
+}
+footer{
+    padding-top: 80px;
+    margin: 0 120px;
+}
+.text-muted{
+    color: black;
+}
+.btn-primary{
+    background-color: #ff2201;
+}
+.btn-success{
+    background-color: #ff2201;
+}
+.ridbtn:hover{
+background-color: green;
+}
